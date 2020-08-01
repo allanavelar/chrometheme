@@ -1,21 +1,43 @@
-# Allan Avelar | Google Chrome Theme
+<p align="center">
+  <a href="https://github.com/allanavelar/chrometheme">
+    <img src="https://raw.githubusercontent.com/allanavelar/website/gh-pages/static/images/icons/icon-256x256.png" height="256">
+    <h1 align="center">Dark Gold ▲▼ Google Chrome Theme</h1>
+  </a>
+</p>
 
-> This theme is based on my website colors.
+<p align="center">
+  <a aria-label="Allan logo" href="https://github.com/allanavelar/chrometheme">
+    <img src="https://img.shields.io/badge/MADE%20FOR%20GOOGLE%20CHROME-000000.svg?style=for-the-badge&logo=Google%20Chrome&labelColor=000">
+  </a>
+  <a aria-label="License" href="https://github.com/allanavelar/chrometheme/master/LICENSE" target="_blank">
+    <img src="https://img.shields.io/npm/l/license.svg?style=for-the-badge&labelColor=000000">
+  </a>
+  <a aria-label="E-mail" href="mailto:contato@allanavelar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=000000&logoWidth=40">
+  </a>
+  <h3 align="center">This theme is based on my website colors.</h3>
+</p>
 
 ## Screenshots
 
-[![Printscreen 1](./images/printscrren-1.jpg)](https://allanavelar.com)
+[![Printscreen 1](./images/printscrren-1.jpg?v=2)](https://allanavelar.com)
 
-[![Printscreen 2](./images/printscrren-2.jpg)](https://site.allanavelar.com/br/portfolio/)
+[![Printscreen 2](./images/printscrren-2.jpg?v=2)](https://site.allanavelar.com/br/portfolio/)
 
-With currently active tab highlighting:
+### With currently over and active tab highlight:
 
 ![Screenshot-gif](./images/preview.gif)
 
-### Copyright (C) 2020 Allan Avelar
+## Author
 
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+[![Allan Avelar](https://avatars2.githubusercontent.com/u/6510417?v=3&s=128)](https://github.com/allanavelar) |
+--- |
+[▲▼ Allan Avelar ۞](https://github.com/allanavelar)|
 
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Copyright and license
 
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Code and documentation copyright 2017-2018.
+
+Code released under the [MIT License](./LICENSE).
+
+Enjoy 🤘
