@@ -2,6 +2,7 @@
    "version": "1.0.0",
    "manifest_version": 2,
    "name": "Dark Gold Theme",
+   "description": "Dark Gold Theme: By Allan Avelar",
    "author": "Allan Avelar (contact@allanavelar.com)",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "theme": {
@@ -17,13 +18,13 @@
          "frame": [ 31, 30, 28 ]
       },
       "images": {
+         "theme_ntp_background": "images/theme_ntp_background.jpg",
          "theme_tab_background": "images/theme_tab_background.png",
          "theme_toolbar": "images/theme_toolbar.png",
          "theme_frame": "images/theme_frame.png"
       },
       "properties": {
-         "ntp_background_alignment": "center",
-         "ntp_background_repeat": "no-repeat"
+         "ntp_background_alignment": "center"
       },
       "tints": {
          "buttons": [ 0.14052287581699346, 1, 0.5 ]

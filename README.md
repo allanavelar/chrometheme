@@ -1,14 +1,18 @@
-# Allan Avelar | Chrome Theme
+# Allan Avelar | Google Chrome Theme
 
 > This theme is based on my website colors.
 
-### Screenshots:
+## Screenshots
 
 [![Printscreen 1](./images/printscrren-1.jpg)](https://allanavelar.com)
 
 [![Printscreen 2](./images/printscrren-2.jpg)](https://site.allanavelar.com/br/portfolio/)
 
-##### Copyright (C) 2020 Allan Avelar
+With currently active tab highlighting:
+
+![Screenshot-gif](./images/preview.gif)
+
+### Copyright (C) 2020 Allan Avelar
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
